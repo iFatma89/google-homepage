@@ -1,4 +1,7 @@
-<!-- write a brief introduction for what the current project is and what skills you have demonstrated once you have completed it. (You can do this as a self-reflection at the end of the project which is a good way to revise what you have learned.)
- -->
+ Creating a google homepage:
 
- <!-- From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css) -->
+ I have learnt about how to position elements using the css grid system and how padding and margin work. I struggeled in trying to place the different elements to the right place but it worked in the end.
+
+
+
+ From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
